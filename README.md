@@ -1,4 +1,4 @@
-# Live Archive, Spoj and UVA Answers
+## Live Archive, Spoj and UVA Answers
 
 In what seems like a long-time back, I used to be interested in  programming contests. This folder contains the source-code for my solutions at various Online Judges,
 
@@ -8,9 +8,11 @@ In what seems like a long-time back, I used to be interested in  programming con
 
 * UVA (http://uva.onlinejudge.org/)
 
-Please note that some of them might be incomplete.
+Please do not copy-paste solutions into the Online Judge. 
 
-## Acknowledgement
+P.S: Some solutions might be incomplete.
+
+### Acknowledgement
 
 At some point, I remember using someonelse's code for fast reading of integers. I dont know who, but here is that piece of code anyway,
 
